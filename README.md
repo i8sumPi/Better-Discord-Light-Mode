@@ -20,4 +20,4 @@ Click the download code button and download zip. Then unzip it and take out the 
 ## 2. Upload the extension
 Go to chrome://extensions and turn on developer mode. Click "load unpacked" and upload the folder `better-discord-light-mode-extension` that is unzipped. 
 
-And that's it! Hopefully it worked.
+And that's it! Hopefully it worked. If it didn't then please let me know.
