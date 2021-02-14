@@ -14,10 +14,10 @@ It is less obvious you are on discord. Most productive websites have a white bac
 # How To Use
 Until I bother publishing this on the chrome web store, you're gonna have to download this manually. So sorry if it's kind of convoluted.
 
-## 1. Download the extension
+### 1. Download the extension
 Click the download code button and download zip. Then unzip it and take out the folder `better-discord-light-mode-extension`.
 
-## 2. Upload the extension
+### 2. Upload the extension
 Go to chrome://extensions and turn on developer mode. Click "load unpacked" and upload the folder `better-discord-light-mode-extension` that is unzipped. 
 
 And that's it! Hopefully it worked. If it didn't then please let me know.
