@@ -1,0 +1,13 @@
+ {
+    "name": "Better Discord Light Mode",
+    "version": "1.0",
+    "description": "A way to make discord light mode legible and less blinding.",
+    "permissions": ["http://*.discord.com/*"],
+    "manifest_version": 2,
+    "content_scripts": [
+      {
+        "matches": ["http://*.discord.com/*"],
+        "css": ["custom_css.css"]
+      }
+    ]
+}
