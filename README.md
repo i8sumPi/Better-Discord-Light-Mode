@@ -1,6 +1,8 @@
 # Better Discord Light Mode
 A way to make discord light mode legible and less blinding.
 
+![Demo of what it looks like](demo_pic.png)
+
 Ok we all know that pretty much nobody uses discord light mode. But some people, like me, prefer it lighter, for a variety of reasons. The problem is, the original discord light mode has a lot of flaws. This simple chrome extension fixes them.
 
 ## What it does
